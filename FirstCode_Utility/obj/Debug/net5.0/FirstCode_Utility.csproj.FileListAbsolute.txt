@@ -1,0 +1,15 @@
+E:\Udemy - ASP.NET Core MVC - Up and Running Part 1 (.NET 5) 2020-10\codes\FirstCode\FirstCode_Utility\bin\Debug\net5.0\FirstCode_Utility.deps.json
+E:\Udemy - ASP.NET Core MVC - Up and Running Part 1 (.NET 5) 2020-10\codes\FirstCode\FirstCode_Utility\bin\Debug\net5.0\FirstCode_Utility.dll
+E:\Udemy - ASP.NET Core MVC - Up and Running Part 1 (.NET 5) 2020-10\codes\FirstCode\FirstCode_Utility\bin\Debug\net5.0\ref\FirstCode_Utility.dll
+E:\Udemy - ASP.NET Core MVC - Up and Running Part 1 (.NET 5) 2020-10\codes\FirstCode\FirstCode_Utility\bin\Debug\net5.0\FirstCode_Utility.pdb
+E:\Udemy - ASP.NET Core MVC - Up and Running Part 1 (.NET 5) 2020-10\codes\FirstCode\FirstCode_Utility\obj\Debug\net5.0\FirstCode_Utility.csproj.AssemblyReference.cache
+E:\Udemy - ASP.NET Core MVC - Up and Running Part 1 (.NET 5) 2020-10\codes\FirstCode\FirstCode_Utility\obj\Debug\net5.0\FirstCode_Utility.GeneratedMSBuildEditorConfig.editorconfig
+E:\Udemy - ASP.NET Core MVC - Up and Running Part 1 (.NET 5) 2020-10\codes\FirstCode\FirstCode_Utility\obj\Debug\net5.0\FirstCode_Utility.AssemblyInfoInputs.cache
+E:\Udemy - ASP.NET Core MVC - Up and Running Part 1 (.NET 5) 2020-10\codes\FirstCode\FirstCode_Utility\obj\Debug\net5.0\FirstCode_Utility.AssemblyInfo.cs
+E:\Udemy - ASP.NET Core MVC - Up and Running Part 1 (.NET 5) 2020-10\codes\FirstCode\FirstCode_Utility\obj\Debug\net5.0\FirstCode_Utility.csproj.CoreCompileInputs.cache
+E:\Udemy - ASP.NET Core MVC - Up and Running Part 1 (.NET 5) 2020-10\codes\FirstCode\FirstCode_Utility\obj\Debug\net5.0\FirstCode_Utility.dll
+E:\Udemy - ASP.NET Core MVC - Up and Running Part 1 (.NET 5) 2020-10\codes\FirstCode\FirstCode_Utility\obj\Debug\net5.0\ref\FirstCode_Utility.dll
+E:\Udemy - ASP.NET Core MVC - Up and Running Part 1 (.NET 5) 2020-10\codes\FirstCode\FirstCode_Utility\obj\Debug\net5.0\FirstCode_Utility.pdb
+E:\Udemy - ASP.NET Core MVC - Up and Running Part 1 (.NET 5) 2020-10\codes\FirstCode\FirstCode_Utility\bin\Debug\net5.0\FirstCode_Utility.runtimeconfig.json
+E:\Udemy - ASP.NET Core MVC - Up and Running Part 1 (.NET 5) 2020-10\codes\FirstCode\FirstCode_Utility\bin\Debug\net5.0\FirstCode_Utility.runtimeconfig.dev.json
+E:\Udemy - ASP.NET Core MVC - Up and Running Part 1 (.NET 5) 2020-10\codes\FirstCode\FirstCode_Utility\obj\Debug\net5.0\FirstCode_Utility.genruntimeconfig.cache
